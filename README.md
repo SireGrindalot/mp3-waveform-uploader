@@ -36,17 +36,14 @@ Replace `"unique_id"` with a custom value to uniquely identify each audio instan
 
 ---
 
-## ⚙️ Installation
+📦 **Installation instructions**
 
-Install via WordPress Admin (ZIP file)
-	1.	Download the plugin ZIP file [Download mp3-waveform-uploader.zip](https://github.com/SireGrindalot/mp3-waveform-uploader/raw/main/mp3-waveform-uploader.zip)
-	2.	In your WordPress Admin:
-	•	Go to Plugins → Add New
-	•	Click Upload Plugin at the top
-	•	Select the downloaded mp3-waveform-uploader.zip
-	•	Click Install Now
-	•	Click Activate Plugin
----
+1. Download plugin in install ready zip file: [Download the plugin ZIP file](https://github.com/SireGrindalot/mp3-waveform-uploader/raw/main/mp3-waveform-uploader.zip)
+2. In WordPress:
+   - Go to *Plugins → Add New*
+   - Click *Upload Plugin*
+   - Choose the downloaded `.zip` file
+   - Click *Install Now*, then *Activate*
 
 ## 💡 Developer Notes
 
