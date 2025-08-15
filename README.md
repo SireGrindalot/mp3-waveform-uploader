@@ -1,4 +1,5 @@
 # MP3 Waveform Uploader & Annotator
+![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blue)
 
 ## 🔊 Usage Preview
 ![Usage Screenshot](screenshot.png)
