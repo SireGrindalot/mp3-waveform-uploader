@@ -38,10 +38,14 @@ Replace `"unique_id"` with a custom value to uniquely identify each audio instan
 
 ## ⚙️ Installation
 
-1. Upload the plugin folder to `/wp-content/plugins/`
-2. Activate the plugin from the WordPress dashboard
-3. Use the shortcode in any post, page or widget
-
+Install via WordPress Admin (ZIP file)
+	1.	Download the plugin ZIP file
+	2.	In your WordPress Admin:
+	•	Go to Plugins → Add New
+	•	Click Upload Plugin at the top
+	•	Select the downloaded mp3-waveform-uploader.zip
+	•	Click Install Now
+	•	Click Activate Plugin
 ---
 
 ## 💡 Developer Notes
