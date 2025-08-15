@@ -36,25 +36,6 @@ Replace `"unique_id"` with a custom value to uniquely identify each audio instan
 
 ---
 
-## 📂 Folder Structure
-assets/
-├── css/mwu-style.css
-└── js/mwu-script.js
-includes/
-├── admin-help-page.php
-├── class-mwu-ajax-handler.php
-└── class-mwu-shortcode-handler.php
-js/
-├── timeline.min.js
-└── wavesurfer.min.js
-templates/
-└── player-template.php
-mp3-waveform-uploader.php
-readme.txt
-LICENSE
-
----
-
 ## ⚙️ Installation
 
 1. Upload the plugin folder to `/wp-content/plugins/`
