@@ -24,9 +24,24 @@ Inspired by SoundCloud. Designed for musicians, podcasters, and educational cont
 - Timestamped comments with AJAX support
 - Admin interface for managing notes and player settings
 - Responsive design, works in most themes
-- Timeline markers and producer note field
-- Optional zoom-in / zoom-out controls
 
+* **Play / Stop**: Use the main **▶ / ■** button to play or stop the audio. When you stop playback, the playhead will return to the position where it last started.
+* **Seek**: Click (or drag) anywhere on the waveform graphic to jump directly to that point in the track.
+* **Zoom**: Use the magnifying glass icons (`🔍+` / `🔍-`) below the waveform to zoom in and out for a more detailed view.
+
+= How do comments work? =
+
+* **Add a Comment**: Play the track or seek to a specific time, then click the **+** button next to the timestamp. A pop-up window will appear, allowing you to add a new comment at that exact moment.
+* **View Comments**: Click the **"Comments"** title to expand or collapse the list of all annotations for the track.
+* **Play from a Comment**: Clicking on any comment in the list will automatically start playback from that comment's specific timestamp.
+* **Delete a Comment**: Each individual comment has its own small **`×`** button to its left, allowing for its precise removal.
+
+= What can an administrator do? =
+
+* **Upload a New Track**: Click the upload icon (**`↑`**) to load a new audio file into the player. Note: This is for loading a brand new track and will not retain comments from any file that was previously loaded.
+* **Clear Player / Delete Track**: Click the main **`×`** button next to the track title to completely clear the player. A confirmation window will give you two options: (1) "No, Just Clear Player", which removes all comments but keeps the file in your Media Library, or (2) "Yes, Delete File", which removes all comments AND permanently deletes the MP3 file.
+* **Add/Edit Producer's Note**: Click anywhere on the yellow "Producer's Note" box to add or edit a general note that applies to the entire track.
+* **Receive Email Notifications**: An email notification is automatically sent to the site administrator (the email in Settings > General) whenever a new comment is posted.
 ---
 
 ## 🛠️ Usage
