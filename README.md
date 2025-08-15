@@ -1,5 +1,8 @@
 # MP3 Waveform Uploader & Annotator
 
+## 🔊 Usage Preview
+![Usage Screenshot](screenshot.png)
+
 **Contributors:** sasofajon  
 **Tags:** audio, mp3, waveform, player, comments, annotations, music, feedback  
 **Requires at least:** 6.0  
