@@ -24,7 +24,6 @@ Inspired by SoundCloud. Designed for musicians, podcasters, and educational cont
 - Timestamped comments with AJAX support
 - Admin interface for managing notes and player settings
 - Responsive design, works in most themes
-
 * **Play / Stop**: Use the main **▶ / ■** button to play or stop the audio. When you stop playback, the playhead will return to the position where it last started.
 * **Seek**: Click (or drag) anywhere on the waveform graphic to jump directly to that point in the track.
 * **Zoom**: Use the magnifying glass icons (`🔍+` / `🔍-`) below the waveform to zoom in and out for a more detailed view.
