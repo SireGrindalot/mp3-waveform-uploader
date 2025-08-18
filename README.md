@@ -15,6 +15,7 @@
 An advanced audio player with a zoomable waveform and timestamped annotations.  
 Inspired by SoundCloud. Designed for musicians, podcasters, and educational content.
 
+[LIVE DEMO](https://studiosf.org/mp3demo/)
 ---
 
 ## ✨ Features
